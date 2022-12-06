@@ -1,0 +1,402 @@
+@media(max-width:3600px){
+    .doc2{
+        left: 30%;
+    }
+    .one .owl-item img{
+        height: 60%;
+    }
+}
+
+@media(max-width:2560px){
+    .doc2 {
+        left: 23%;
+    }
+    .one .owl-item img{
+        height: 77%;
+    }
+}
+
+@media(max-width:1600px){
+    .one .owl-nav button.owl-prev{
+        left: -3%;
+    }
+    .one .owl-nav button.owl-next{
+        right: 0%;
+    }
+    .doc2{
+        left: 7%;
+    }
+    .one .owl-item img {
+        height: 91%;
+    }
+}
+
+@media( max-width:1199px){
+    .doc2 img{
+        width: 65%;
+    }
+    .doc2{
+        left: 5%;
+    }
+    .one .owl-nav button.owl-prev{
+        left: -3%;
+    }
+    .one .owl-nav button.owl-next{
+        right: 0%;
+    }
+    .follow h2 {
+        font-size: 23px;
+        margin-right: 20px;
+    }
+    .follow ul{
+        padding: 0;
+    }
+}
+
+@media(max-width:991px){
+    .phon {
+        margin-left: 11px;
+    } 
+    .phon img {
+        width: 27px;
+    }
+    .number {
+        margin-left: 5px;
+    }
+    .number h6 {
+        font-size: 18px;
+    }
+    .number p {
+        font-size: 12px;
+    }
+    .one .owl-item img {
+        width: 54%;
+        height: 91%;
+    }
+    .btn-2{
+        font-size: 13px;
+    }
+    .btn-3{
+        font-size: 13px;
+    }
+    .banner-text h3{
+          font-size: 20px;
+    }
+    .banner-text h1{
+          font-size: 34px;
+    }
+    .banner-text p{
+       font-size: 15px;
+    }
+    .doc2 img{
+        width: 55%;
+    }
+    .dental h2 {
+        font-size: 22px;
+    }
+    .dental p{
+        font-size: 14px;
+    }
+    .teeth img{
+        width: 16%;
+    }
+    .teeth h4{
+        font-size: 17px;
+    }
+    .teeth p{
+        font-size: 13px;
+    }
+    .doc h1{
+        font-size: 30px;
+    }
+    .doc p{
+        font-size: 15px;
+    }
+    .t-tex img{
+        width: 12%;
+    }
+    .t-tex h4{
+        font-size: 15px;
+    }
+    .service-box p{
+        font-size: 14px;
+    }
+    .price{
+        width: 100%;
+    }
+    .price h2{
+        font-size: 23px;
+    }
+    .price h6{
+        font-size: 10px;
+    }
+    .taka h1{
+        font-size: 27px;
+    }
+    .taka h5{
+        font-size: 12px;
+    }
+    .price p {
+        font-size: 15px;
+        line-height: 22px;
+    }
+    .cl1{
+        width: 48%; 
+    }
+    .cl2{
+        width: 48%;
+        margin: auto;
+        margin-bottom: 62px;
+    }
+    .cl3{
+         display: inline-table;
+         width: 60%;
+         margin-top: 40px; 
+    }
+    .clien h1{
+        margin-bottom: 8px;
+    }
+    .form{
+        margin-top:17px ;
+    }
+    .follow{
+        margin-top: 30px;
+    }
+    .doc2 {
+        left: 1%;
+        bottom: 36px;
+    }
+    .one .owl-nav button.owl-prev{
+        left: -4%;
+    }
+    .one .owl-nav button.owl-next{
+        right: 1%;
+    }
+
+}
+    
+
+@media(max-width:767px){
+    header img{
+        display: none;
+    }
+    .phon-all img{
+        display: inline-block;
+        width: 24px;
+    }
+    .number h6 {
+        font-size: 16px;
+    }
+    .number p {
+        font-size: 11px;
+    }
+    .navbar-brand{
+        display: inline-block;
+    }
+    .btn-appoint{
+        display: none;
+    }
+    .one .owl-item img {
+        display: none;
+    }
+    .banner-content{
+        text-align: center;
+    }
+    .dental h2{
+        text-align: center;
+    }
+    .dental p{
+        text-align: center;
+    }
+    .teeth p{
+        text-align: start !important;
+     }
+     .doc2 img {
+         width: 90%;
+     }
+
+    .doc2 {
+        position: inherit;
+       width: 55%;
+       margin: auto;
+       margin-bottom: 30px;
+    }
+    .banner-text h1{
+        font-size: 34px;
+    }
+    .banner-text h3{
+        font-size: 21px;
+    }
+    .docs{
+        margin-bottom: 20px;
+    }
+    .service-box{
+        margin-bottom: 20px;
+    }
+    .price{
+        margin-bottom: 20px;
+    }
+    .clien h1{
+        margin-top: 25px;
+        margin-bottom: 3px;
+        font-size: 28px;
+    }
+    .location img {
+        width: 5%;
+    }
+   
+}
+
+@media(max-width:575px){
+   
+    header img{
+        display: none;
+    }
+    .banner-content{
+        padding-top: 50px;
+    }
+    .one .owl-nav button.owl-prev{
+        left: 0%;
+    }
+    .one .owl-nav button.owl-next{
+        right: 0%;
+    }
+    .phon-all img{
+        display: inline-block;
+    }
+    .number h6{
+        font-size: 15px;
+    }
+    .number p{
+        font-size: 11px;
+    }
+    .navbar-brand{
+        display: inline-block;
+    }
+    .btn-appoint{
+        display: none;
+    }
+    .one .owl-item img {
+        display: none;
+    }
+    .banner-content{
+        text-align: center;
+    }
+    .dental h2{
+        text-align: center;
+    }
+    .dental p{
+        text-align: center;
+    }
+    .doc2 {
+        position: inherit;
+       width: 55%;
+       margin: auto;
+       margin-bottom: 30px;
+
+    }
+    .teeth p{
+       text-align: start !important;
+    }
+    .docs-all{
+        margin-bottom: 20px;
+    }
+    .box{
+        margin-bottom: 20px;
+    }
+    .box2{
+        margin-bottom: 20px;
+    }
+    .location img{
+        width: 5%;
+    }
+    .clien h1{
+        margin-top: 25px;
+        margin-bottom: 3px;
+        font-size: 28px;
+    }
+    .two .owl-nav button.owl-prev{
+        left: 0%;
+    }
+    .two .owl-nav button.owl-next{
+        right: 0%;
+    }
+    .cl1{
+        width: 100%;
+    }
+    .cl2{
+        width: 100%;
+        margin-bottom: 0;
+         
+    }
+    .cl3{
+        width: 100%;
+        margin-bottom: 0;
+    }
+
+}
+
+@media(max-width:427px){
+    .manu-end {
+        display: block;
+        margin-bottom: 10px;
+    }
+    .phon-all{
+        display: inline-block;
+    }
+    .number h6{
+        color: #fff;
+    }
+    .number p{
+        color: #fff;
+    }
+    .phon {
+       margin-bottom: 10px;
+    }
+    .navbar-nav{
+        margin-left: 35px;
+        border-bottom: 1px solid #fff;
+    }
+    header{
+        display: none;
+    }
+    .banner-text h3{
+        font-size: 15px;
+    }
+    .banner-text h1{
+        font-size: 22px;
+    }
+    .banner-text p{
+        font-size: 14px;
+    }
+    .btn-2{
+        font-size: 11px;
+    }
+    .btn-3{
+        font-size: 11px;
+    }
+    .dental h2{
+        font-size: 21px;
+    }
+    .teeth h4 {
+        font-size: 17px;
+    }
+    .doc h1 {
+        font-size:25px;
+    }
+    .one .owl-nav button.owl-prev{
+        left: 3%;
+    }
+    .one .owl-nav button.owl-next{
+        right: 3%;
+    }
+    .two .owl-nav button.owl-prev{
+        left: -2%;
+    }
+    .two .owl-nav button.owl-next{
+        right: -2%;
+    }
+    .follow h2{
+        font-size: 20px;
+    }
+}
